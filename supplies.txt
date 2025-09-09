@@ -1,0 +1,14 @@
+1,Dog comb,Grooming,150
+2,Big Cage,Cages,15000
+3,small Cage,Cages,10000
+4,Mailo,Foods,450
+5,Meat 2KG,Foods,1500
+6,Fish,Foods,450
+7,Bigger cage,Cages,15000
+8,smaller Cage,Cages,7000
+9,Brush,Grooming, 550
+10,Bears,Pet Toys,400
+11,red colar,Colars,250
+12,black colar,Colars,250
+13,black pillow,Pet Toys,2500
+14,red colar,Colars,250
